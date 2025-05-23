@@ -48,11 +48,6 @@ Tetriada is a simple Tetris-inspired game built using JavaScript and the HTML5 C
 └── README.md        # This file
 ```
 
-## License 📜
-
-This project is open-source and available under the MIT License.
-
-Enjoy playing Tetriada! 🎉
 
 ## 📸 Screenshots
 
@@ -62,9 +57,11 @@ Enjoy playing Tetriada! 🎉
 
 Created by **Jarosław Baumgart**.
 
-## 📜 License
+## License 📜
 
-This project is available under the **MIT License**.
+This project is open-source and available under the MIT License.
+
+Enjoy playing Tetriada! 🎉
 
 ## 📬 Contact
 
